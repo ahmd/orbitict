@@ -30,15 +30,15 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
         font-size: 80%;
     }
 	.navbar-default {
-    background-color:#ffc038;
+    /* background-color:#ffc038; */
     border: transparent;
-    padding:20px 0;
-	}
+    padding: 20px 0 20px 20px;
+ }
 	.navbar-default .navbar-toggle {
     border-color:none;
-    background: #464646;
-	border:0;
-	}
+    background: transparent !important;
+    border:0;
+ }
 	.navbar-default .navbar-toggle:hover {
 		background:#000;
 	}
