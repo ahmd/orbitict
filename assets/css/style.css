@@ -573,6 +573,7 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
        margin-bottom: 0;
        border: none;
        min-height: auto;
+       position: absolute;
    }
    
    .navbar-default .navbar-nav>.active a{
@@ -607,7 +608,7 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
    }
    
    .menu-bg{
-/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#c514fd+0,8c4ef8+100 */background: #c514fd; /* Old browsers */background: -moz-linear-gradient(top, #c514fd 0%, #8c4ef8 100%); /* FF3.6-15 */background: -webkit-linear-gradient(top, #c514fd 0%,#8c4ef8 100%); /* Chrome10-25,Safari5.1-6 */background: linear-gradient(to bottom, #c514fd 0%,#8c4ef8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c514fd', endColorstr='#8c4ef8',GradientType=0 ); /* IE6-9 */padding: 20px 0;box-shadow: 0px 0px 20px 10px rgba(0, 0, 0, 0.1);}
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#c514fd+0,8c4ef8+100 */background: #c514fd; /* Old browsers */background: -moz-linear-gradient(top, #c514fd 0%, #8c4ef8 100%); /* FF3.6-15 */background: -webkit-linear-gradient(top, #c514fd 0%,#8c4ef8 100%); /* Chrome10-25,Safari5.1-6 */background: linear-gradient(to bottom, #c514fd 0%,#8c4ef8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c514fd', endColorstr='#8c4ef8',GradientType=0 ); /* IE6-9 */padding: 20px 0;box-shadow: 0px 0px 20px 10px rgba(0, 0, 0, 0.1);position: fixed;}
    
    
    /*Home Page Style*/
